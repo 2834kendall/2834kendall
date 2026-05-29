@@ -5,7 +5,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-2834kendall-181717?style=flat-square&logo=github)](https://github.com/2834kendall)
 &nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=2834kendall&color=0e75b6&style=flat-square)
 
 </div>
 

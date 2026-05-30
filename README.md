@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Kendall Badilla F.</h1>
-
-**Backend & API Developer**
+<img src="banner.svg" alt="Kendall Badilla F." width="100%"/>
 
 `Node.js` `TypeScript` `C++` `x86 Assembly` `PostgreSQL`
 

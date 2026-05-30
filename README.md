@@ -1,15 +1,11 @@
 <div align="center">
-
 # Kendall Badilla F.
-
 **Backend & API Developer**
-
 `Node.js` `TypeScript` `C++` `x86 Assembly` `PostgreSQL`
-
 [![Email](https://img.shields.io/badge/kendallbadilla10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendallbadilla10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/kendall--badilla--fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendall-badilla-fonseca-a9a501412)
 [![Instagram](https://img.shields.io/badge/@kendall__bf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kendall_bf)
 [![GitHub](https://img.shields.io/badge/2834kendall-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2834kendall)
-
 </div>
 
 <br>
